@@ -1,6 +1,6 @@
 [![Compatible with Substrate v2.0.0](https://img.shields.io/badge/Substrate-v2.0.0-E6007A)](https://github.com/paritytech/substrate/releases/tag/v2.0.0)
 
-# Commodities FRAME Pallet: NFTs for Substrate
+# Commodities FRAME Pallet: NFTs for Tetcore
 
 This is a [FRAME](https://substrate.dev/docs/en/knowledgebase/runtime/frame) pallet that defines and implements an
 interface for managing a set of [non-fungible tokens (NFTs)](https://en.wikipedia.org/wiki/Non-fungible_token). Assets
